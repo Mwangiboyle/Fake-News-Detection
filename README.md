@@ -21,8 +21,8 @@ This project is a web application built using Streamlit that helps identify whet
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/fake-news-detection.git
-    cd fake-news-detection
+    git clone https://github.com/Mwangiboyle/Fake-News-Detection.git
+    cd Fake-News-Detection
     ```
 
 2. **Create a virtual environment**:
