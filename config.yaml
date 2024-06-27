@@ -1,0 +1,2 @@
+model_folder: "models"
+vectorizer_path: "vectorizer.pkl"
