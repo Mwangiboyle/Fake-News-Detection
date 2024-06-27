@@ -40,7 +40,7 @@ This project is a web application built using Streamlit that helps identify whet
 
 1. **Run the Streamlit app**:
     ```bash
-    streamlit run app.py
+    streamlit run streamlit_app.py
     ```
 
 2. **Open your web browser** and go to `http://localhost:8501`.
